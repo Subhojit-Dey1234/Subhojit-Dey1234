@@ -1,6 +1,6 @@
 ![](https://github.com/Subhojit-Dey1234/Subhojit-Dey1234/blob/main/Hi!%2C%20I%20am%20Subhojit%20Dey.png)
 
-### Hi there 👋, Subhojit Dey
+### Hi!! Subhojit Dey
 
 Hi, I am an undergraduate student from India.I love coding and building projects. I have knowledge in JavaScript and Python. I know React js, Html, CSS, Javascript, Node JS.
 
