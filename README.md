@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/Subhojit-Dey1234/Subhojit-Dey1234/blob/main/Hi!%2C%20I%20am%20Subhojit%20Dey.png)
 
 ### Hi there 👋, Subhojit Dey
 
