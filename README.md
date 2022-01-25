@@ -9,7 +9,7 @@ Hi, I am an undergraduate student from India.I love coding and building projects
 - 💡 Node JS
 - 🐍 Python, Django
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhojit-Dey1234&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhojit-Dey1234&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats).
 
 #### Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Subhojit-Dey1234)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/subhojit-dey-09/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thesubhojitdey)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](subhojit.co.in)  
