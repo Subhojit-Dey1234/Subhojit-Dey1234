@@ -1,8 +1,6 @@
 ![](https://github.com/Subhojit-Dey1234/Subhojit-Dey1234/blob/main/Hi!%2C%20I%20am%20Subhojit%20Dey.png)
 
-### Hi!! Subhojit Dey
-
-Hi, I am an undergraduate student from India.
+## Hi!! Subhojit Dey
 ### Skills
 <a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
