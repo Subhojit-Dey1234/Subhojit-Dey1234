@@ -13,6 +13,9 @@ Hi, I am an undergraduate student from India.I love coding and building projects
 <a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&labelColor=black&color=green"/></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&color=007ACC"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhojit-Dey1234&hide=c%23&hide_progress=true&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats).
 
