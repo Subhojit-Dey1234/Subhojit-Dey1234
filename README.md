@@ -2,7 +2,7 @@
 
 ### Hi!! Subhojit Dey
 
-Hi, I am an undergraduate student from India.I love coding and building projects. I have knowledge in JavaScript and Python. I know React js, Html, CSS, Javascript, Node JS and C#.
+Hi, I am an undergraduate student from India.
 ### Skills
 <a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
