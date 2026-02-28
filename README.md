@@ -15,7 +15,5 @@
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhojit-Dey1234&hide=c%23&hide_progress=true&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats).
-
 #### Socials
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/Subhojit-Dey1234)    [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' >](https://www.linkedin.com/in/subhojit-dey-09/)    [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter'>](https://twitter.com/thesubhojitdey)    [<img src='https://img.shields.io/badge/website-red?style=for-the-badge&logo=About.me&logoColor=white' alt='website'>](https://subhojit.co.in)  
